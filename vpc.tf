@@ -12,5 +12,5 @@ module "vpc"{
     is_peering_required = var.is_peering_required
     common_tags = var.common_tags
 }
-    
+   
     
